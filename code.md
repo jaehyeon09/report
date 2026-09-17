@@ -1,5 +1,5 @@
 ## 홀수 모래시계 만들기 코드
-``
+```
 #include<stdio.h>
 void main() {
 	int n, j, i, h;
@@ -20,4 +20,4 @@ void main() {
 		printf("\n");
 	}
 }
-``
+```
